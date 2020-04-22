@@ -10,12 +10,17 @@
   background-size: cover;
   position: absolute;
 }
-.logo-h {
-  margin: 30px auto;
-  text-align: center;
-}
-.start {
+.mini {
+  width: 230px;
   position: absolute;
-  top: 550px;
-  left: 630px;
+  right: 910px;
+  top: -85px;
+}
+.back-wrap {
+  width: 950px;
+  height: 1100px;
+  position: relative;
+  margin: 7% auto;
+  background: #e0fde2;
+  padding: 5px;
 }
